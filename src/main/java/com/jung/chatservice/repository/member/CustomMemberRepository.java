@@ -1,4 +1,4 @@
-package com.jung.chatservice.repository;
+package com.jung.chatservice.repository.member;
 
 import com.jung.chatservice.domain.Member;
 

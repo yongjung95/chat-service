@@ -1,7 +1,6 @@
-package com.jung.chatservice.repository;
+package com.jung.chatservice.repository.member;
 
 import com.jung.chatservice.domain.Member;
-import com.jung.chatservice.domain.QMember;
 import com.querydsl.jpa.impl.JPAQueryFactory;
 
 import javax.persistence.EntityManager;

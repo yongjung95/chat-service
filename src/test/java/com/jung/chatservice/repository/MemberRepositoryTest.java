@@ -1,6 +1,7 @@
 package com.jung.chatservice.repository;
 
 import com.jung.chatservice.domain.Member;
+import com.jung.chatservice.repository.member.MemberRepository;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
